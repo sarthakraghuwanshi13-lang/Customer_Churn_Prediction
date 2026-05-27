@@ -1,4 +1,4 @@
-You caan reach to the file by https://yourusername.github.io/Customer_Churn_Prediction/
+You caan reach to the file by https://sarthakraghuwanshi13-lang.github.io/Customer_Churn_Prediction/
 # 🔮 ChurnSense AI — Customer Churn Prediction
 
 A full-stack Machine Learning project that predicts customer churn for telecom companies using a **Random Forest** model, served via a **Flask API** with a premium dark-themed **web frontend**.
